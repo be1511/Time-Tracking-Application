@@ -1,0 +1,28 @@
+.header-menu {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-menu {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-menu li {
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
+  .nav-menu li:hover {
+    text-decoration: underline;
+  }
+  
